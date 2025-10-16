@@ -70,3 +70,7 @@ Copyright (c) 2024 Microsoft Corporation. All rights reserved.
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+## 作者想说的
+
+**实际上，这东西是用来给E5做续期的，f word,microsoft :(
