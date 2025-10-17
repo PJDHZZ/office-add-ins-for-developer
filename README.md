@@ -73,4 +73,6 @@ Copyright (c) 2024 Microsoft Corporation. All rights reserved.
 
 ## 作者想说的
 
-**实际上，这东西是用来给E5做续期的，f word,microsoft :(
+**实际上，这东西是用来给E5做续期的，f word,microsoft :( **
+
+试图翻译ing
